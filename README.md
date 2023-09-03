@@ -45,3 +45,5 @@ Run the test suite using:
 ## Authorization
 This API uses JWT for authorization. To generate a token, make a POST request to `/generate`.
 Include this token in the `Authorization` header for the Todo routes.
+
+ATM Diagram Design: https://showme.redstarplugin.com/d/d:1FXixVRG
